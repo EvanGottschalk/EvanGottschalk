@@ -3,8 +3,13 @@ Blockchain Developer - Over the past 5 years, I've created numerous blockchain p
 I am very interested in working on cutting-edge blockchain products. Please contact me if you or your company has a blockchain or machine learning project in need of a developer or development manager.
 
 Email: evan.blockchain@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/evan-gottschalk/
+
 Twitter: https://twitter.com/EvanOnEarth_eth
+
 Instagram: https://www.instagram.com/evanonearth_eth/
+
 ETH: evanonearth.eth
+
 SOL: evanonearth.sol
