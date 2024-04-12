@@ -18,7 +18,7 @@ fullstack development, machine learning, automation, UX/UI design, team manageme
 - Product Advisor at [BrightID](https://evanon.earth/brightid)
 - Product Advisor at [Unitap](https://evanon.earth/unitap)
 
-###**Evan's Info**
+### **Evan's Info**
 - Website: https://evanonearth.xyz
 - Email: evan.blockchain@gmail.com
 - LinkedIn: https://www.linkedin.com/in/evan-gottschalk
