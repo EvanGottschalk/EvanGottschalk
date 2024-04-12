@@ -1,7 +1,7 @@
 Evan is a blockchain architect and machine learning engineer. He graduated with a degree in Mathematics at SUNY Binghamton in 2012. In addition to writing smart contracts in Solidity and Rust and managing web2 and web3 developers, Evan also wrote machine learning algorithms in Python to generate visual art and music for NFTs.
 
 **About Evan**
--**Skills** - Proficient with smart contract development, AMMs, NFTs, web design, network & blockchain security,
+- **Skills** - Proficient with smart contract development, AMMs, NFTs, web design, network & blockchain security,
 fullstack development, machine learning, automation, UX/UI design, team management, and game design
 -**Blockchain** - Vastly experienced with blockchains, cryptocurrencies, decentralized finance, NFT’s and AMM’s
 -**Bitcoin** - Deeply knowledgeable of bitcoin fundamentally, legally, socially, historically and technically
