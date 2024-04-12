@@ -11,18 +11,18 @@ fullstack development, machine learning, automation, UX/UI design, team manageme
 - **Operating Systems** - Proficient with Windows, Mac, iOS, Android, and Linux
 - **Software** - Proficient with AWS, Firebase, S3, Google Cloud, Google Suite, Google Admin Console, Postman, Adobe Photoshop, Adobe Flash, Adobe Lightroom, FL Studio, Microsoft Word, Excel, and Powerpoint
 
-**Evan's Roles**
--CTO and Co-founder at [NoFun Labs](https://evanon.earth/nofunlabs)
--Blockchain Architect at [EcoVerse](https://ecoverse.io/) - led the development and implementation of dozens of NFT campaigns for brands and artists
--Blockchain Architect at [Aphid AI](https://aphid.com/leadership)
--Product Advisor at [BrightID](https://evanon.earth/brightid)
--Product Advisor at [Unitap](https://evanon.earth/unitap)
+### **Evan's Roles**
+- CTO and Co-founder at [NoFun Labs](https://evanon.earth/nofunlabs)
+- Blockchain Architect at [EcoVerse](https://ecoverse.io/) - led the development and implementation of dozens of NFT campaigns for brands and artists
+- Blockchain Architect at [Aphid AI](https://aphid.com/leadership)
+- Product Advisor at [BrightID](https://evanon.earth/brightid)
+- Product Advisor at [Unitap](https://evanon.earth/unitap)
 
-**Evan's Info**
-Website: https://evanonearth.xyz
-Email: evan.blockchain@gmail.com
-LinkedIn: https://www.linkedin.com/in/evan-gottschalk
-Twitter: https://twitter.com/EvanOnEarth_eth
-Instagram: https://www.instagram.com/evanonearth_eth/
-ETH: evanonearth.eth
-SOL: evanonearth.sol
+###**Evan's Info**
+- Website: https://evanonearth.xyz
+- Email: evan.blockchain@gmail.com
+- LinkedIn: https://www.linkedin.com/in/evan-gottschalk
+- Twitter: https://twitter.com/EvanOnEarth_eth
+- Instagram: https://www.instagram.com/evanonearth_eth/
+- ETH: evanonearth.eth
+- SOL: evanonearth.sol
