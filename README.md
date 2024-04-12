@@ -13,8 +13,8 @@ fullstack development, machine learning, automation, UX/UI design, team manageme
 
 ### **Evan's Roles**
 - CTO and Co-founder at [NoFun Labs](https://evanon.earth/nofunlabs)
-- Blockchain Architect at [EcoVerse](https://ecoverse.io/) - led the development and implementation of dozens of NFT campaigns for brands and artists
-- Blockchain Architect at [Aphid AI](https://aphid.com/leadership)
+- Blockchain Architect at [EcoVerse](https://evanon.earth/ecoverse)
+- Blockchain Architect at [Aphid AI](https://evanon.earth/aphid)
 - Product Advisor at [BrightID](https://evanon.earth/brightid)
 - Product Advisor at [Unitap](https://evanon.earth/unitap)
 
